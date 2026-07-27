@@ -107,19 +107,19 @@
 <br/>
 <br/>
 <!-- BADGES -->
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="http://linkedin.com/in/sultan-fatihun-naim" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sfnaim.chat@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="https://github.com/FatihForge" target="_blank">
+<a href="https://github.com/FatihForge" >
   <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0f172a" />
 </a>
 &nbsp;
-<a href="https://sultanresume.pages.dev/" target="_blank">
+<a href="https://fatihforge.pages.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Live%20Site%20→-0ea5e9?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0f172a" />
 </a>
 
