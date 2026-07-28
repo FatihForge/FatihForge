@@ -107,8 +107,8 @@
 <br/>
 <br/>
 <!-- BADGES -->
-<a href="http://linkedin.com/in/sultan-fatihun-naim" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+<a href="https://fatihforge.pages.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site%20→-0ea5e9?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0f172a" />
 </a>
 &nbsp;
 <a href="mailto:sfnaim.chat@gmail.com">
@@ -119,10 +119,10 @@
   <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0f172a" />
 </a>
 &nbsp;
-<a href="https://fatihforge.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live%20Site%20→-0ea5e9?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0f172a" />
-</a>
 
+<a href="http://linkedin.com/in/sultan-fatihun-naim" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,3b82f6,8b5cf6&height=2&width=100%" alt="divider" />
 
 
