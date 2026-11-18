@@ -116,23 +116,34 @@ I value clear communication, practical problem-solving, teamwork, and continuous
 - Improving API design, validation, authentication, and error handling.
 - Writing maintainable code and documenting projects clearly.
 
+
+
+
 ## Projects
 
 Explore my **pinned repositories below** to see selected projects, source code, and implementation details.
 
 [Browse all repositories →](https://github.com/FatihForge?tab=repositories)
 
-## Connect With Me
-
-- **Portfolio:** [fatihforge.pages.dev](https://fatihforge.pages.dev)
-- **LinkedIn:** [Sultan Fatihun Naim](https://www.linkedin.com/in/sultan-fatihun-naim)
-- **Email:** [sultanfatihunnaim@gmail.com](mailto:sultanfatihunnaim@gmail.com)
-- **GitHub:** [@FatihForge](https://github.com/FatihForge)
-
 ---
 
 <div align="center">
 
+
 *Build with purpose. Learn continuously. Ship thoughtfully.*
+
+
+<a href="https://fatihforge.pages.dev">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-171717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/sultan-fatihun-naim">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:sultanfatihunnaim@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-171717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/FatihForge?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Repositories-171717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
 
 </div>
