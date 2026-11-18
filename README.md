@@ -42,8 +42,8 @@ I value clear communication, practical problem-solving, teamwork, and continuous
 <table  width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>Frontend Development</h3>
-      <p>
+      <h3 align="center">🎨 Frontend Development</h3>
+      <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -52,27 +52,25 @@ I value clear communication, practical problem-solving, teamwork, and continuous
 </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Backend Development</h3>
-      <p>
-        <p>
+    <h3 align="center">⚙️ Backend Development</h3>    
+  <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
+  
 </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Database</h3>
-      <p>
+    <h3 align="center">🗄️ Database</h3>  
+      <p align="center">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Tools & Platforms</h3>
-     <p>
+     <h3 align="center">🔧 Tools & Platforms</h3>  
+     <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
