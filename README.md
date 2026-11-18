@@ -31,9 +31,11 @@ Building responsive web applications and practical digital solutions.
 
 ## About Me
 
-I’m Sultan Fatihun Naim, an entry-level full-stack developer focused on JavaScript and the MERN stack. I enjoy building responsive web applications, working with APIs and databases, and solving practical development problems.
+I’m Sultan Fatihun Naim, a web developer focused on building responsive, user-friendly applications with JavaScript and the MERN stack. I enjoy turning ideas into working products, integrating APIs, solving development problems, and continuously improving the quality of my code.
 
-Alongside software development, I bring professional experience in digital marketing and online content management, including SEO, Google AdSense, social media management, and content strategy. I value clear communication, thoughtful problem-solving, collaboration, and continuous learning.
+I also bring previous experience in digital marketing and content management, including SEO, Google AdSense, social media management, and content strategy. This background helps me understand user needs, digital products, and the business goals behind a website.
+
+I value clear communication, practical problem-solving, teamwork, and continuous learning.
 
 ## Technical Skills
 
@@ -109,10 +111,10 @@ Alongside software development, I bring professional experience in digital marke
 
 ## Current Focus
 
-- Building complete web applications with the MERN stack.
-- Strengthening backend development, API design, and database skills.
-- Improving code quality, debugging, and project documentation.
-- Learning through practical projects and consistent development.
+- Strengthening full-stack development skills with the MERN stack.
+- Building complete applications that connect frontend, backend, and databases.
+- Improving API design, validation, authentication, and error handling.
+- Writing maintainable code and documenting projects clearly.
 
 ## Projects
 
